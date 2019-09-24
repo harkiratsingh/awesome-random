@@ -156,7 +156,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Apache TinkerPop Tutorial](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
 - [Sybase](https://www.sap.com/products/sybase-ase.html)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
-
+- [DynamoDB] (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 ## Cloud Infrastructure and Kubernetes
 - [KAtlas - Multi-Cluster Discoverability and Auditability](https://github.com/intuit/katlas)
 - [Foremast - AI/ML Infrastructure Health Monitoring](https://github.com/intuit/foremast)
